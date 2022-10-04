@@ -3,6 +3,7 @@ This is a simple meme generator app made by me with inspiration from Scrimba Rea
 
 ## Tech Stack used 
 • React js
+
 • Tailwind CSS
 
 ## Live Preview -
